@@ -1,0 +1,6 @@
+rootProject.name = 'oauth2-micro-example'
+include 'discovery-service'
+include 'authorization-server'
+include 'api-gateway'
+include 'resource-server'
+
